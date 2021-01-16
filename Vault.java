@@ -18,8 +18,7 @@ public class Vault {
     private static String user;
 
     // NOTE: If youre IDE does not support the use of the Console class, you can 
-    // debug with a scanner.   You would want to test your program, though, once
-    // you are done with the other testing, using the Console class. 
+    // debug with a scanner.
     private static boolean IDE_DEBUG = false;
     private static Scanner scanner;
     private static Console console;
